@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there, I'm Burak👋
 
-<!--
-**burakbalkanal-oss/burakbalkanal-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student interested in software development and engineering.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🫡 I'm from Türkiye and I live in Ankara
+- 🏫 I go to Yenimahalle Science High School
+- 🎓 Student interested in engineering and computer science 
+- 💻 Currently learning software development and web development
+- 🌱 Working on improving my programming and problem-solving skills
+- 🚀 Interested in building useful projects
+
+## Projects
+
+### StudyLab
+
+A study planning website built as my final project for Harvard's CS50x course.
+
+**Built with:** Python, Flask, SQLite, HTML, CSS and Bootstrap.
+
+## Currently
+
+I'm continuing to learn, build projects, and improve my programming skills.
+
+## Contact
+
+**Instagram Username:** wintersoldier062

@@ -19,10 +19,6 @@ A study planning website built as my final project for Harvard's CS50x course.
 
 **Built with:** Python, Flask, SQLite, HTML, CSS and Bootstrap.
 
-## Currently
-
-I'm continuing to learn, build projects, and improve my programming skills.
-
 ## Contact
 
 **Instagram Username:** wintersoldier062
